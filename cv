@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Akshay's Personal Site</title>
+  </head>
+  <body>
+    <table cellspacing="20">
+      <tr>
+        <td><img src="images/my.jpg" alt=Akshay profile picture></td>
+        <td>
+          <h1>
+           Akshay kumar
+          </h1>
+          <p><em>Noobe coder at <strong><a href="#">Web Development</a></strong>.</em></p>
+          <p>I am a Web Developer. I love watching Football</p></td>
+        </tr>
+      </table>
+      <hr>
+      <h3>Books and teachings</h3>
+      <ul>
+        <li>Sherlock holmes</li>
+        <li>Guliver's Travels</li>
+        </ul>
+  <hr size="3" noshade>
+  <h3>Work & Experience</h3>
+  <table celspacing="10">
+    <thead>
+    <tr>
+      <th>Year</th>
+      <th>Work</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td>2018</td>
+      <td>Learn to Code</td>
+        </tr>
+    <tr>
+        <td>2019</td>
+        <td>Web Development</td>
+        </tr>
+      </tbody>
+    </table>
+  <a href="Hobbies.html">My Hobbies</a>
+  <a href="contact.html">Contact Me </a>
+</form>
+  </body>
+</html>
